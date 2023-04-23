@@ -1,0 +1,21 @@
+* {
+    font-family:'Times New Roman', Times, serif;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+button {
+    background-color: rgb(127, 255, 212);
+    color: black;
+}
+
+.name {
+    background-color: rgb(173, 255, 47);
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
